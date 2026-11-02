@@ -1,0 +1,24 @@
+Alex Johnson | alex.johnson@email.com | +1 555-010-4477 | Austin, TX
+linkedin.com/in/alexjohnson | github.com/alexjohnson
+
+SUMMARY
+Full-stack developer with 2 years of experience building React and Node.js applications.
+
+EXPERIENCE
+Full-Stack Developer — BrightApps Inc. (Jun 2023 – Present)
+• Built React dashboards used by 3,000+ customers
+• Developed REST APIs with Node.js and Express backed by MongoDB
+• Reduced page load time by 35% through code splitting and caching
+
+Software Intern — CloudNest (Jan 2023 – May 2023)
+• Wrote unit tests with Jest covering 80% of core modules
+• Collaborated in an Agile team using Git and GitHub pull requests
+
+PROJECTS
+• Task Tracker — MERN app with JWT auth, 500+ active users
+
+EDUCATION
+B.S. Computer Science, University of Texas at Austin — 2019–2023
+
+SKILLS
+JavaScript, React, Node.js, Express, MongoDB, REST APIs, Git, Jest, Agile

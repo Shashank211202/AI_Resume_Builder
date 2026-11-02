@@ -1,0 +1,8 @@
+Full-Stack Developer
+We are looking for a Full-Stack Developer to build scalable web applications.
+Requirements:
+- 2+ years with React, TypeScript and Node.js
+- Experience designing REST APIs and working with MongoDB or SQL databases
+- Familiarity with Docker and CI/CD pipelines (GitHub Actions)
+- Experience with AWS and unit testing (Jest)
+- Comfortable working in an Agile team with strong communication skills
